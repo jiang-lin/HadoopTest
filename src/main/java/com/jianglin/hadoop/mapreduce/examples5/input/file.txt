@@ -1,0 +1,19 @@
+str1	1
+str1	2
+str1	3
+str1	3
+str1	4
+str2	3
+str2	7
+str2	4
+str2	1
+str3	5
+str3	3
+str3	6
+str3	1
+str4	9
+str4	7
+str5	6
+str5	3
+str5	1
+
